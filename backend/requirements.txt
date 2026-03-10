@@ -1,0 +1,11 @@
+fastapi
+sqlalchemy
+langchain
+langchain_core
+langchain_community
+langchain-mistralai
+mysql-connector-python
+streamlit
+ddgs
+pypdf
+psycopg2-binary

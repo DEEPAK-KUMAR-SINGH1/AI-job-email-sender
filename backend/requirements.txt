@@ -9,3 +9,4 @@ streamlit
 ddgs
 pypdf
 psycopg2-binary
+uvicorn

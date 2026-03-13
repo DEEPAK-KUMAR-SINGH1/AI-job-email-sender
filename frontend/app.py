@@ -156,7 +156,7 @@ if st.button("✨ Generate & Send Application"):
         with st.spinner("Sending request to AI backend..."):
 
             # CHANGE THIS AFTER FASTAPI DEPLOY
-            url = "https://your-fastapi.onrender.com/Email-agent/"
+            url = "url = "https://ai-job-email-sender.onrender.com/Email-agent/""
 
             files = {
                 "file": (uploaded_file.name, uploaded_file.getvalue(), "application/pdf")
